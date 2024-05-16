@@ -9,7 +9,8 @@
     </div>
  
     <hr>
- 
+
+    
  <section class="container">
      <div class="row justify-content-center">            
          @forelse ($category->announcements as $announcement)  
